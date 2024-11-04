@@ -1,0 +1,9 @@
+path: C:\Users\yasin\Desktop\OTONOM\YOLO\YOLOV8\object_detection\data\traffic_sign_object_detection_dataset
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+
+# Class Names
+names: ["0", "100", "110", "120", "130", "2", "20", "3", "30", "40", "5", "50", "60", "70", "8", "80", "80-Speed-Limit", "80km", "90", "Green Light", "NO ENTRY", "Pedestrians", "Red Light", "STOP", "Speed_limit_100km", "Speed_limit_120km", "Speed_limit_40km", "Speed_limit_50km", "Speed_limit_70km", "Speed_limit_80km", "Speed_limit_90km", "Stop Sign", "Stop_Sign", "adult", "car", "child", "give way", "give_way", "go left", "go right", "go right or straight", "green", "keep right", "lightgreen", "lightred", "lightyellow", "park", "pedestrian", "red", "right_turn", "school crossing", "speed sign 20mph", "speed sign 30mph", "speed sign 40mph", "speed sign 50mph", "speed sign 60mph", "speed-100", "speed-100-ending", "speed60", "speed_limit_100", "speed_limit_120", "speed_limit_20", "speed_limit_30", "speed_limit_40", "speed_limit_50", "speed_limit_60", "speed_limit_70", "speed_limit_80", "stop", "stop-signal", "traffic light", "traffic_sign_90", "vehicle", "yellow", "z40", "z60"]
+
